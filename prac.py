@@ -1,5 +1,5 @@
 #open a file in read mode
 f=open('z.txt','r')
 
-#just checking
+#just checking ok
 print(f.read())
